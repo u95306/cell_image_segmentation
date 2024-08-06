@@ -1,0 +1,2 @@
+*.zip filter=lfs diff=lfs merge=lfs -text
+Dataset-20220709T144451Z-001.zip filter=lfs diff=lfs merge=lfs -text
